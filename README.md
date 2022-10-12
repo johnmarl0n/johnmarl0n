@@ -1,7 +1,8 @@
 # Olá, me chamo John Dias! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Full Stack em formação.<br>
+Full Stack em formação.
+
 Atuo como Analista de Sistemas e Implantação (ERP), sendo responsável pela migração de dados para ambiente MS SQL Server.<br>
 
 > Formação:<br>
