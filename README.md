@@ -1,8 +1,14 @@
 # Olá, me chamo John Dias! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Atualmente trabalho com migração de dados para Bancos de Dados Microsoft SQL Server.
-Estou estudando e aprimorando meus conhecimentos em Desenvolvimento Web utilizando PHP, HTML5, CSS3, JavaScript, NodeJS, React, dentre outras.
+Full Stack em formação.<br>
+Atuo como Analista de Sistemas e Implantação (ERP), sendo responsável pela migração de dados para ambiente MS SQL Server.<br>
+
+> Formação:<br>
+> • Analise e Desenvolvimento de Sistemas.<br>
+> • Sistemas para Internet.
+
+Estudando e aprimorando conhecimentos em desenvolvimento web utilizando PHP, HTML5, CSS3, JavaScript, NodeJS, React, dentre outras.
 
 Fique a vontade para visitar meu perfil e meus repositórios.
 
@@ -13,7 +19,7 @@ Fique a vontade para visitar meu perfil e meus repositórios.
 
 
 ---
-## Contatos:
+### Contatos:
 <div>
 <a href = "mailto:napster47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/johnmarlon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -22,7 +28,7 @@ Fique a vontade para visitar meu perfil e meus repositórios.
 </div>
 
 ---
-## Estatísticas: 
+### Estatísticas: 
 <div>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarl0n&layout=compact&langs_count=7&theme=dracula"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=johnmarl0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
