@@ -22,10 +22,10 @@ Fique a vontade para visitar meu perfil e meus repositórios.
 ---
 ### Contatos:
 <div>
-<a href = "mailto:johnmsdias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/johnmarlon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/johnmarl0n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "https://psnprofiles.com/JohnDiazZz"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
+<a href="mailto:johnmsdias@gmail.com"><img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=johnmsdias@gmail.com&color=FF7704"></a>
+<a href="https://www.linkedin.com/in/johnmarlon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=LinkedIn&logoColor=white&color=0072b1&message=johnmarlon"></a>
+<a href="https://instagram.com/johnmarl0n" target="_blank"><img alt="Instagram" src="https://img.shields.io/static/v1?style=flat-square&logo=instagram&label=Instagram&logoColor=white&color=8a3ab9&message=johnmarl0n"></a>
+<a href = "https://psnprofiles.com/JohnDiazZz" target="_blank"><img alt="PSN Profiles" src="https://img.shields.io/static/v1?style=flat-square&logo=playstation&label=PSN&logoColor=white&color=003791&message=JohnDiazZz"></a>
 </div>
 
 ---
