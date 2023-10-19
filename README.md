@@ -12,6 +12,7 @@ Atuo como Analista de Sistemas e Implantação (ERP), sendo responsável pela mi
 > ### Graduação
 > • Analise e Desenvolvimento de Sistemas.<br>
 > • Sistemas para Internet.
+> 
 
 Estudando e aprimorando conhecimentos em desenvolvimento web utilizando PHP, HTML5, CSS3, JavaScript, NodeJS, React, dentre outras.
 
