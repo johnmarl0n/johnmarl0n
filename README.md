@@ -3,16 +3,19 @@
 
 Full Stack em formação.
 
-Atuo como Analista de Sistemas e Implantação (ERP), sendo responsável pela migração de dados para ambiente MS SQL Server.<br>
+Atuo como Desenvolvedor, sendo também responsável pela migração de dados para ambiente MS SQL Server (ETL / ELT).<br>
 
+><hr>
 > ## Formação:<br>
 > ### Pós Graduação:
-> • Data Science and Machine Learning
+> • Ciência de Dados e Aprendizado de Máquina.<br>
 >
+><hr>
 > ### Graduação
 > • Analise e Desenvolvimento de Sistemas.<br>
 > • Sistemas para Internet.
-> 
+>
+> <hr>
 
 Estudando e aprimorando conhecimentos em desenvolvimento web utilizando PHP, HTML5, CSS3, JavaScript, NodeJS, React, dentre outras.
 
