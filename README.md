@@ -1,7 +1,7 @@
 # Olá, eu sou o John Dias! 👋
 
 <div align="center">
-  <img width="100%" alt="Banner John Dias" src="https://github.com/user-attachments/assets/782b5847-55f8-4c2b-bb40-cb63f73c11a4" />
+  <img width="100%" heigth="150px" alt="Banner John Dias" src="https://github.com/user-attachments/assets/782b5847-55f8-4c2b-bb40-cb63f73c11a4" />
 </div>
 
 ### 🚀 Full Stack Developer & Data Specialist
