@@ -22,7 +22,7 @@ Minha jornada é guiada por um objetivo claro: desenvolver sistemas que não ape
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Metodologias & Infra
-**ETL/ELT** | **Data Migration** | **Identity/RBAC** | **IIS/SmarterASP.NET** | **Mobile WebView**
+**ETL/ELT** | **Data Migration** | **Identity/RBAC** | **IIS/SmarterASP.NET** | **Mobile WebView** | **Webhooks/APIs**
 
 ---
 
@@ -38,10 +38,10 @@ Plataforma completa desenvolvida para uma psicóloga clínica, com foco rigoroso
 - **Destaques**: Blog integrado com painel administrativo e sistema de autenticação segura, editor rico customizado (Quill Editor modificado) para publicações e formulário de contato integrado via SMTP/MailKit.
 - **Tech**: C# ASP.NET Core MVC, Entity Framework Core, Bootstrap, Identity, MailKit.
 
-### 📱 ConsultorApp (Jacsys) - Portal Corporativo Mobile-Ready
-Portal corporativo robusto desenvolvido para a gestão e onboarding de consultores de campo.
-- **Destaques**: Sincronização inteligente de termos de aceite legais, gestão avançada de perfis com otimização server-side de upload de imagens e integração fluida com Android WebView para uso em campo.
-- **Tech**: C#, SQL Server, JavaScript, Android WebView.
+### 📱 ConsultorApp (Jacsys) - Portal Corporativo Mobile-Ready & Analytics
+Portal corporativo robusto desenvolvido para a gestão de dados, onboarding e governança comercial.
+- **Destaques**: Automação de marketing via WhatsApp com motor de disparos em lote assíncrono. Arquitetura orientada a eventos usando **Webhooks** para auditoria e telemetria de leitura em tempo real. Dashboard de **Business Intelligence (BI)** embutido com funil de conversão e gráficos de Mapa de Calor de engajamento (Chart.js).
+- **Tech**: C#, SQL Server, JavaScript (Ajax/Fetch), Chart.js, APIs REST (PlugzAPI).
 
 ---
 
