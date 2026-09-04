@@ -28,6 +28,9 @@ No ecossistema **Full Stack**, construo aplicações resilientes utilizando **C#
 
 ### ⚖️ **KALYBRA** — *Inteligência de Dados, Auditoria & Plataforma Analítica Avançada*
 
+[![Website Kalybra](https://img.shields.io/badge/Plataforma-kalybra.com.br-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kalybra.com.br)
+[![Hub Kalybra](https://img.shields.io/badge/Hub-hub.kalybra.com.br-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=0f172a)](https://hub.kalybra.com.br)
+
 ![.NET 9](https://img.shields.io/badge/.NET_9-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -40,6 +43,7 @@ No ecossistema **Full Stack**, construo aplicações resilientes utilizando **C#
 O **Kalybra** é uma plataforma corporativa desenvolvida para **calibração, governança, auditoria analítica e inteligência preditiva sobre fluxos de dados complexos**. Projetado para lidar com grandes volumes de registros e entregar respostas imediatas, combinando pipelines de dados robustos a uma camada de IA Generativa e Analítica.
 
 ### 🎯 Principais Destaques de Engenharia & Funcionalidades:
+* 🌐 **Acesso:** [kalybra.com.br](https://kalybra.com.br) | 🚀 **Hub Operacional:** [hub.kalybra.com.br](https://hub.kalybra.com.br)
 * 🔄 **Motor de Ingestão & Processamento Contínuo**: Pipeline de dados com processamento em lote e streaming assíncrono, garantindo integridade transacional e baixa latência.
 * 🧠 **Módulo de Inteligência Artificial & LLMs**: Agentes inteligentes para sumarização contextual, detecção de padrões e assistência analítica em linguagem natural.
 * 🛡️ **Segurança & Governança Corporativa**: Autenticação com OAuth2/JWT, auditoria contínua de transações, mascaramento de dados sensíveis e controle de acesso granular por perfis (RBAC).
@@ -118,8 +122,8 @@ O **Kalybra** é uma plataforma corporativa desenvolvida para **calibração, go
 * 🔗 [Acessar PRY2K.com.br](https://pry2k.com.br)
 </details>
 
-<details>
-<summary><b>💼 2. PortalJohn — Portal Pessoal, CRM Comercial & Strava Analytics</b></summary>
+<details open>
+<summary><b>💼 2. Portal John — Portal Pessoal, CRM Comercial & Strava Analytics</b></summary>
 <br>
 
 > Central de gestão pessoal e comercial integrada, com ingestão automática de telemetria esportiva e acervo bibliográfico inteligente.
@@ -127,7 +131,7 @@ O **Kalybra** é uma plataforma corporativa desenvolvida para **calibração, go
 * **Módulo CRM Comercial:** Simulador de proposta comercial por hora técnica, ativação contratual em 1-clique e disparo automatizado via WhatsApp.
 * **Biblioteca Digital:** Modal no padrão visual *Netflix/Apple Books*, busca universal instantânea com debounce e SQL otimizado.
 * **Stack:** `.NET 8` `ASP.NET Core MVC` `ADO.NET` `Identity (RBAC)` `CSS Vanilla Glassmorphism`
-* 🔗 [Repositório PortalJohn](https://github.com/johnmarl0n/PortalJohn)
+* 🔗 [Acessar Portal John (johnmarlon.com.br)](https://johnmarlon.com.br)
 </details>
 
 <details>
@@ -137,16 +141,7 @@ O **Kalybra** é uma plataforma corporativa desenvolvida para **calibração, go
 > Sistema em Clean Architecture concebido para gestão e aplicação de programas de psicologia corporativa e conformidade regulatória com a NR-1.
 * **Destaques:** Prontuário eletrônico com criptografia de ponta a ponta, aplicação automatizada de inventários clínicos (*PHQ-9, GAD-7*), gestão financeira dual (B2B/B2C) e módulo de blog com SEO local.
 * **Stack:** `.NET 9` `Blazor` `PostgreSQL` `ASP.NET Core` `RBAC Granular`
-* 🔗 [Acessar Praxys](https://praxysconsultoria.com.br)
-</details>
-
-<details>
-<summary><b>📱 4. ConsultorApp & Jacsys Core Server — Hub de Automação e Logística</b></summary>
-<br>
-
-> Motor de dados central para controle operacional, telemetria de vendas e integração logística com WMS.
-* **Destaques:** Motor de mensageria assíncrona em lote para WhatsApp, captura de telemetria via Webhooks e integração de ponta a ponta com sistemas de WMS (*Spark WMS*).
-* **Stack:** `C#` `SQL Server (ADO.NET)` `Webhooks` `REST APIs` `Chart.js`
+* 🔗 [Acessar Praxys (praxysconsultoria.com.br)](https://praxysconsultoria.com.br)
 </details>
 
 ---
@@ -154,12 +149,12 @@ O **Kalybra** é uma plataforma corporativa desenvolvida para **calibração, go
 ## 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnmarl0n&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=00d2ff&text_color=94a3b8&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarl0n&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0d1117" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmarl0n&theme=tokyonight" height="190" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnmarl0n&theme=tokyonight" height="190" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmarl0n&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=johnmarl0n&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" />
 </div>
 
 ---
